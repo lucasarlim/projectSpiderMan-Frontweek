@@ -1,5 +1,5 @@
 <h1 align="center">Spider-man: Miles Morales 🕸️</h1>
-<img src="assets/cover-maratona-discover.png" alt="Wallpaper Maratona Discover">
+<img src="videos/spiderman-gif.mp4" alt="Gif Projeto Spider-man: Miles Morales">
 
 ## Projeto 💻
 
