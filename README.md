@@ -1,5 +1,5 @@
 <h1 align="center">Spider-man: Miles Morales 🕸️</h1>
-<img src="img/spiderman-.png" alt="Projeto Spider-man: Miles Morales">
+<img src="img/spider-man.png" alt="Projeto Spider-man: Miles Morales">
 
 ## Projeto 💻
 
