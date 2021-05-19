@@ -30,3 +30,6 @@ To start the project, just open the file ```index.html``` in your preferred brow
 
 - Made by [@lucasarlim](https://github.com/lucasarlim)
 
+## 📸 Screenshots
+
+<img src="img/home-screen.svg" alt="Home Page">
