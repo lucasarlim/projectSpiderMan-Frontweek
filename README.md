@@ -9,13 +9,6 @@
 
 ---
 
-## 📝 Table of Contents
-
-- [About](#about)
-- [Starting](#starting)
-- [Built Using](#built_using)
-- [Authors](#authors)
-
 ## 💻 About <a name = "about"></a>
 
 The Spider-man: Miles Morales project was developed during the event ** [FrontWeek] (https://www.youtube.com/watch?v=83fVoO_3WAQ) ** where we developed a responsive interface from scratch from the UI Concept using the Figma until the final interface using HTML5, CSS3, Javascript, Sass and Motion Design.
