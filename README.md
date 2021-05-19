@@ -1,13 +1,30 @@
 <h1 align="center">Spider-man: Miles Morales 🕸️</h1>
 <img src="img/spider-man.png" alt="Projeto Spider-man: Miles Morales">
 
-## Projeto 💻
+<div align="center">
 
-O projeto Spider-man: Miles Morales foi desenvolvido durante o evento **[FrontWeek](https://www.youtube.com/watch?v=83fVoO_3WAQ)** onde desenvolvemos uma interface responsiva do zero desde o UI Concept utilizando o Figma até a interface final utilizando HTML5, CSS3, Javascript, Sass e Motion Design.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-## Tecnologias 🛠️
+</div>
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+---
+
+## 📝 Table of Contents
+
+- [About](#about)
+- [Starting](#starting)
+- [Built Using](#built_using)
+- [Authors](#authors)
+
+## 💻 About <a name = "about"></a>
+
+The Spider-man: Miles Morales project was developed during the event ** [FrontWeek] (https://www.youtube.com/watch?v=83fVoO_3WAQ) ** where we developed a responsive interface from scratch from the UI Concept using the Figma until the final interface using HTML5, CSS3, Javascript, Sass and Motion Design.
+
+## 🚀 Starting <a name="starting"></a>
+
+To start the project, just open the file ```index.html``` in your preferred browser.
+
+## 🛠️ Built Using <a name = "built_using"></a>
 
 - HTML
 - CSS
@@ -16,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Motion Design
 - Figma
 
----
+## 🥳 Authors <a name = "authors"></a>
 
-<p align="center">Made by Lucas Araújo 🥳</p>
+- Made by [@lucasarlim](https://github.com/lucasarlim)
+
